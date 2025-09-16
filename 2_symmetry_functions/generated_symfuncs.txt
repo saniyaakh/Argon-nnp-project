@@ -1,0 +1,1144 @@
+#########################################################################
+# Short-range radial symmetry function set (shift mode) for elements ['Ar']
+#########################################################################
+symfunction_short Ar  2 Ar  2.000E+01 2.000E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.032E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.063E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.095E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.127E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.158E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.190E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.222E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.253E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.285E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.316E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.348E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.380E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.411E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.443E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.475E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.506E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.538E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.570E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.601E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.633E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.665E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.696E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.728E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.759E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.791E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.823E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.854E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.886E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.918E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.949E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.981E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.013E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.044E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.076E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.108E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.139E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.171E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.203E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.234E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.266E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.297E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.329E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.361E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.392E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.424E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.456E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.487E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.519E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.551E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.582E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.614E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.646E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.677E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.709E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.741E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.772E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.804E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.835E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.867E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.899E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.930E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.962E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.994E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.025E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.057E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.089E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.120E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.152E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.184E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.215E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.247E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.278E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.310E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.342E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.373E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.405E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.437E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.468E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.500E+00 7.000E+00
+
+#########################################################################
+# Long-range radial symmetry function set (shift mode) for elements ['Ar']
+#########################################################################
+symfunction_short Ar  2 Ar  5.000E-01 4.500E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.532E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.563E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.595E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.627E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.658E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.690E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.722E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.753E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.785E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.816E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.848E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.880E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.911E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.943E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.975E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.006E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.038E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.070E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.101E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.133E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.165E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.196E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.228E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.259E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.291E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.323E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.354E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.386E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.418E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.449E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.481E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.513E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.544E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.576E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.608E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.639E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.671E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.703E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.734E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.766E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.797E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.829E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.861E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.892E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.924E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.956E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.987E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.019E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.051E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.082E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.114E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.146E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.177E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.209E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.241E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.272E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.304E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.335E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.367E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.399E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.430E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.462E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.494E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.525E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.557E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.589E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.620E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.652E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.684E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.715E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.747E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.778E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.810E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.842E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.873E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.905E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.937E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.968E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 7.000E+00 7.000E+00
+
+#########################################################################
+# Center-mode radial symmetry function set for elements ['Ar']
+#########################################################################
+symfunction_short Ar  2 Ar  5.000E-01 0.000E+00 7.000E+00 centre
+symfunction_short Ar  2 Ar  1.000E+00 0.000E+00 7.000E+00 centre
+symfunction_short Ar  2 Ar  2.000E+00 0.000E+00 7.000E+00 centre
+symfunction_short Ar  2 Ar  4.000E+00 0.000E+00 7.000E+00 centre
+symfunction_short Ar  2 Ar  6.000E+00 0.000E+00 7.000E+00 centre
+
+#########################################################################
+# Narrow angular symmetry function set (Type 3) for elements ['Ar']
+#########################################################################
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.551E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.551E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.551E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.551E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.602E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.602E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.602E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.602E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.653E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.653E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.653E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.653E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.703E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.703E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.703E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.703E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.754E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.754E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.754E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.754E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.805E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.805E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.805E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.805E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.856E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.856E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.856E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.856E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.907E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.907E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.907E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.907E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 3.958E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.958E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.958E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 3.958E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.008E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.008E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.008E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.008E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.059E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.059E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.059E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.059E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.110E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.110E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.110E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.110E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.161E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.161E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.161E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.161E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.212E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.212E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.212E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.212E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.263E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.263E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.263E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.263E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.314E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.314E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.314E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.314E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.415E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.415E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.415E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.415E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.466E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.466E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.466E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.466E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.517E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.517E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.517E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.517E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.568E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.568E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.568E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.568E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.619E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.619E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.619E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.619E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.669E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.669E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.669E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.669E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.720E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.720E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.720E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.720E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.771E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.771E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.771E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.771E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.822E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.822E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.822E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.822E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.873E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.873E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.873E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.873E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.924E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.924E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.924E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.924E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.975E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 4.975E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.975E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.975E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.025E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.025E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.025E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.025E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.076E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.076E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.076E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.076E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.127E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.127E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.127E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.127E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.178E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.178E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.178E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.178E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.229E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.229E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.229E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.229E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.280E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.280E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.280E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.280E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.331E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.331E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.331E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.331E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.381E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.381E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.381E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.381E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.432E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.432E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.432E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.432E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.483E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.483E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.483E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.483E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.534E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.534E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.534E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.534E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.585E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.585E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.585E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.585E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.636E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.636E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.636E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.636E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.686E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.686E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.686E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.686E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.737E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.737E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.737E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.737E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.788E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.788E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.788E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.788E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.839E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.839E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.839E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.839E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.890E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.890E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.890E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.890E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.941E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.941E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.941E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.941E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 5.992E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.992E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.992E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 5.992E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.042E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.042E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.042E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.042E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.093E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.093E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.093E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.093E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.144E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.144E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.144E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.144E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.195E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.195E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.195E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.195E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.246E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.246E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.246E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.246E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.297E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.297E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.297E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.297E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.347E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.347E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.347E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.347E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.398E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.398E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.398E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.398E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.449E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.449E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.449E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.449E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 6.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 6.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.500E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.500E+00
+
+#########################################################################
+# Wide angular symmetry function set (Type 9) for elements ['Ar']
+#########################################################################
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.051E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.102E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.153E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.203E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.254E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.305E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.356E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.407E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.508E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.559E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.610E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.661E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.712E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.763E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.814E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.864E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.915E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 4.966E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.017E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.068E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.119E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.169E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.220E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.271E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.322E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.373E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.424E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.475E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.525E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.576E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.627E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.678E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.729E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.780E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.831E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.881E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.932E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 5.983E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.034E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.085E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.136E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.186E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.237E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.288E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.339E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.390E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.441E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.492E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.542E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.593E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.644E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.695E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.746E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.797E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.847E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.898E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 6.949E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 4.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 4.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 6.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 8.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 -1 8.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 4.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 4.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 6.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 +1 8.0 7.000E+00 7.000E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 8.0 7.000E+00 7.000E+00

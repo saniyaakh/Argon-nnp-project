@@ -1,0 +1,47 @@
+# lammps input script for 5000 step neural network potential simulation
+# argon system with 256 atoms at 300k
+
+units           metal
+atom_style      atomic
+newton          off
+
+# read atomic structure
+read_data       structure_fcc.data
+
+# define argon mass
+mass            1 39.948
+
+# minimize structure
+min_style       cg
+minimize        1e-8 1e-10 100000 100000
+
+# neural network potential
+pair_style      hdnnp 7.0 showew yes showewsum 100 resetew yes maxew 500000
+pair_coeff      * * Ar
+
+# neighbor settings
+neighbor        3.0 bin
+neigh_modify    delay 0 every 1 check yes
+
+# simulation parameters
+timestep        0.001
+thermo          500
+thermo_style    custom step temp pe ke etotal press vol
+fix remove_drift all momentum 1 linear 1 1 1
+
+# initial temperature
+velocity all create 300.0 12345 mom yes dist gaussian
+
+# energy computation
+compute pe_all all pe
+compute ke_all all ke
+fix energy_output all ave/time 50 1 50 c_pe_all c_ke_all file energy_5k.dat
+
+# radial distribution function
+compute myRDF all rdf 100 1 1
+fix rdf_output all ave/time 50 10 500 c_myRDF[*] file rdf_5k.dat mode vector
+
+# run simulation
+fix nvt1 all nvt temp 300 300 10
+run 5000
+unfix nvt1

@@ -1,0 +1,28 @@
+# LAMMPS input script for small Argon test system
+
+units           metal
+dimension       3
+boundary        p p p
+atom_style      atomic
+
+read_data       structure_small.data
+
+pair_style      lj/cut 12.0
+pair_coeff      1 1 0.0103 3.405
+
+neighbor        4.0 bin
+neigh_modify    delay 0 every 1 check yes one 10000
+
+velocity        all create 300.0 12345 dist gaussian
+
+fix             1 all nvt temp 300.0 300.0 0.1
+timestep        0.001
+
+thermo_style    custom step temp pe ke etotal press vol
+thermo          50
+
+dump            1 all atom 100 trajectory_small.lammpstrj
+
+run             500
+
+print          "Small test simulation completed!"

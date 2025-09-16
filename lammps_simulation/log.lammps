@@ -1,0 +1,102 @@
+LAMMPS (29 Sep 2021 - Update 2)
+  using 1 OpenMP thread(s) per MPI task
+# LAMMPS input script for FCC Argon crystal
+
+units           metal
+dimension       3
+boundary        p p p
+atom_style      atomic
+
+read_data       structure_fcc.data
+Reading data file ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (21.040000 21.040000 21.040000)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  256 atoms
+  read_data CPU = 0.005 seconds
+
+pair_style      lj/cut 12.0
+pair_coeff      1 1 0.0103 3.405  # Argon LJ parameters
+
+neighbor        2.0 bin
+neigh_modify    delay 0 every 1 check yes
+
+# Start with low temperature to avoid instability
+velocity        all create 50.0 12345 dist gaussian
+
+# Gentle equilibration
+fix             1 all nvt temp 50.0 300.0 1.0
+timestep        0.001
+
+thermo_style    custom step temp pe ke etotal press vol density
+thermo          50
+
+dump            1 all atom 100 trajectory_fcc.lammpstrj
+
+# Gradual heating and equilibration
+run             1000
+Neighbor list info ...
+  update every 1 steps, delay 0 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 14
+  ghost atom cutoff = 14
+  binsize = 7, bins = 4 4 4
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair lj/cut, perpetual
+      attributes: half, newton on
+      pair build: half/bin/atomonly/newton
+      stencil: half/bin/3d
+      bin: standard
+Per MPI rank memory allocation (min/avg/max) = 4.230 | 4.230 | 4.230 Mbytes
+Step Temp PotEng KinEng TotEng Press Volume Density 
+       0           50   -22.161837    1.6480668    -20.51377    192.23314    9314.0209    1.8232527 
+      50    40.934449   -21.862639    1.3492542   -20.513385    433.84614    9314.0209    1.8232527 
+     100    21.356542   -21.213819   0.70394017   -20.509879    947.02205    9314.0209    1.8232527 
+     150    10.979734    -20.86715   0.36190672   -20.505244    1214.6547    9314.0209    1.8232527 
+     200    16.140346    -21.03251   0.53200737   -20.500503    1079.9113    9314.0209    1.8232527 
+     250    23.152761   -21.254459   0.76314594   -20.491314    900.01644    9314.0209    1.8232527 
+     300    24.573417   -21.288257   0.80997267   -20.478285      875.654    9314.0209    1.8232527 
+     350    24.050824   -21.256139   0.79274731   -20.463391    910.55122    9314.0209    1.8232527 
+     400    25.852287    -21.29923   0.85212594   -20.447104    884.23757    9314.0209    1.8232527 
+     450    29.085096   -21.388582   0.95868366   -20.429899    814.98107    9314.0209    1.8232527 
+     500    30.586042   -21.420213    1.0081568   -20.412056    788.26905    9314.0209    1.8232527 
+     550     29.26954   -21.360056   0.96476318   -20.395292    836.64932    9314.0209    1.8232527 
+     600    26.686402   -21.259387    0.8796195   -20.379768    919.51464    9314.0209    1.8232527 
+     650    25.182525    -21.19545   0.83004969     -20.3654    971.30069    9314.0209    1.8232527 
+     700    26.322765   -21.218086   0.86763353   -20.350452     952.0226    9314.0209    1.8232527 
+     750     28.75327    -21.28138   0.94774623   -20.333633    901.24471    9314.0209    1.8232527 
+     800    29.561681   -21.289303   0.97439254   -20.314911    897.02941    9314.0209    1.8232527 
+     850    28.215605   -21.225155   0.93002408   -20.295131    952.43901    9314.0209    1.8232527 
+     900     26.99696   -21.164949    0.8898559   -20.275093    1004.2528    9314.0209    1.8232527 
+     950    28.462625   -21.192906   0.93816616    -20.25474    984.95593    9314.0209    1.8232527 
+    1000    31.786801   -21.279639    1.0477355   -20.231904    919.35713    9314.0209    1.8232527 
+Loop time of 0.438793 on 1 procs for 1000 steps with 256 atoms
+
+Performance: 196.904 ns/day, 0.122 hours/ns, 2278.981 timesteps/s
+93.3% CPU use with 1 MPI tasks x 1 OpenMP threads
+
+MPI task timing breakdown:
+Section |  min time  |  avg time  |  max time  |%varavg| %total
+---------------------------------------------------------------
+Pair    | 0.41168    | 0.41168    | 0.41168    |   0.0 | 93.82
+Neigh   | 0          | 0          | 0          |   0.0 |  0.00
+Comm    | 0.012643   | 0.012643   | 0.012643   |   0.0 |  2.88
+Output  | 0.0025272  | 0.0025272  | 0.0025272  |   0.0 |  0.58
+Modify  | 0.0062928  | 0.0062928  | 0.0062928  |   0.0 |  1.43
+Other   |            | 0.005654   |            |       |  1.29
+
+Nlocal:        256.000 ave         256 max         256 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:        3173.00 ave        3173 max        3173 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:        40960.0 ave       40960 max       40960 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 40960
+Ave neighs/atom = 160.00000
+Neighbor list builds = 0
+Dangerous builds = 0
+
+print          "FCC Argon simulation completed!"
+FCC Argon simulation completed!
+Total wall time: 0:00:00

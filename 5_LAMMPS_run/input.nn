@@ -1,0 +1,110 @@
+###############################################################################
+# Neural network potential for Argon - Fixed Configuration
+###############################################################################
+
+# Global settings
+number_of_elements                       1
+elements                                 Ar
+cutoff_type                              6.0
+atom_energy                              Ar   0.0
+
+# Network topology
+global_hidden_layers_short               2
+global_nodes_short                       20 20
+global_activation_short                  t t l
+normalize_nodes                          
+
+# Training parameters
+epochs                                   50
+updater_type                             1
+parallel_mode                            0
+jacobian_mode                            1
+update_strategy                          1
+selection_mode                           2
+random_seed                              123456
+test_fraction                            0.1
+force_weight                             10.0
+short_energy_fraction                    1.0
+short_force_fraction                     0.02315
+short_energy_error_threshold             0.00
+short_force_error_threshold              1.00
+rmse_threshold_trials                    3
+weights_min                              -1.0
+weights_max                              1.0
+write_trainpoints                        1
+write_trainforces                        1
+write_weights_epoch                      1
+write_neuronstats                        
+kalman_type                              0
+kalman_epsilon                           0.01
+kalman_q0                                0.01
+kalman_qtau                              2.302
+kalman_qmin                              1e-6
+kalman_eta                               0.01
+
+#########################################################################
+# Short-range radial symmetry function set (shift mode) for elements ['Ar']
+#########################################################################
+#########################################################################
+# Long-range radial symmetry function set (shift mode) for elements ['Ar']
+#########################################################################
+#########################################################################
+# Center-mode radial symmetry function set for elements ['Ar']
+#########################################################################
+#########################################################################
+# Narrow angular symmetry function set (Type 3) for elements ['Ar']
+#########################################################################
+#########################################################################
+# Wide angular symmetry function set (Type 9) for elements ['Ar']
+#########################################################################
+symfunction_short Ar  2 Ar  2.000E+01 2.000E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.032E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.506E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 2.981E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 3.614E+00 7.000E+00
+symfunction_short Ar  2 Ar  2.000E+01 4.184E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.563E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.595E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 4.848E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.323E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.544E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.608E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.671E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.734E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.829E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 5.892E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.146E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.272E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.399E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.494E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.620E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.715E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.810E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.873E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 6.937E+00 7.000E+00
+symfunction_short Ar  2 Ar  5.000E-01 0.000E+00 7.000E+00 centre
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 3.602E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 3.958E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.212E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 1.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 4.364E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.517E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 4.771E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.076E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.280E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.534E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.686E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 -1 2.0 7.000E+00 5.839E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 5.941E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.042E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 2.0 7.000E+00 6.195E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.449E+00
+symfunction_short Ar  3 Ar  Ar  2.000E+00 +1 1.0 7.000E+00 6.500E+00
+symfunction_short Ar  9 Ar  Ar  2.000E-01 -1 6.0 7.000E+00 4.458E+00
+symfunction_short Ar  9 Ar  Ar  5.000E-01 +1 6.0 7.000E+00 7.000E+00
+
+# Additional parameters for n2p2 training
+task_batch_size_energy              1
+task_batch_size_force               1
+memorize_symfunc_results            
+use_short_forces                    

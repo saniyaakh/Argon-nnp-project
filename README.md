@@ -1,4 +1,4 @@
-# Symmetry Functions (Yu Cai's Improved Method)
+# Symmetry Functions
 
 ## Files:
 - `new-Ar.ipynb` - Jupyter notebook for Argon-specific symmetry functions
